@@ -1,0 +1,9 @@
+{
+  "/oauth": {
+    "target": "https://api.twitter.com/oauth",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {"^/oauth" : ""}
+  }
+}
